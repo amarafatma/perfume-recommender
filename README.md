@@ -2,7 +2,7 @@ Want to find your signature scent?
 Let's dive into the aromatic world of data science!
 
 <a href="https://perfume-recommender.streamlit.app/"><img src="../perfume.jpeg"></img></a>
-(/perfume.jpeg?raw=true)
+![Perfume](/perfume.jpeg?raw=true"Perfume")
 
 Unleashing the Power of Data Science to Find Your Signature Scent
 Ever wondered how to discover your perfect perfume match?
